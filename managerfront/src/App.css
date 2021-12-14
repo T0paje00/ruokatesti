@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  background-color:aqua;
+}
+
+.navbar > * {
+  margin-right: 10px;
+}
+
+.signsign {
+  display: flex;
+  flex-direction: column;
+}
+
+.loglog {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.resta {
+  display: flex;
+  flex-direction: column;
+
+}
